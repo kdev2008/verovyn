@@ -1,0 +1,1 @@
+{"name": "Verovyn Health Services", "short_name": "Verovyn", "start_url": "/index.html", "display": "standalone", "background_color": "#061a2e", "theme_color": "#061a2e", "icons": [{"src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}, {"src": "assets/favicon.png", "sizes": "any", "type": "image/png"}]}
